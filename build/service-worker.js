@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://pavlicholeg.github.io/dinabot_gscripts/build/precache-manifest.ab2674931c93eaa682252a1c333ea65f.js"
+  "https://pavlicholeg.github.io/dinabot_gscripts/build/precache-manifest.2c90ee8fecfd2428c10da7e472127307.js"
 );
 
 self.addEventListener('message', (event) => {
