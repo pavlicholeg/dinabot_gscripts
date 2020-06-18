@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/css/main.5f361e03.chunk.css",
-    "main.js": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/main.00139b63.chunk.js",
-    "main.js.map": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/main.00139b63.chunk.js.map",
+    "main.js": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/main.f5e2a3f9.chunk.js",
+    "main.js.map": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/main.f5e2a3f9.chunk.js.map",
     "runtime-main.js": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/runtime-main.032e35f2.js",
     "runtime-main.js.map": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/runtime-main.032e35f2.js.map",
-    "static/js/2.e4c66ef3.chunk.js": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/2.e4c66ef3.chunk.js",
-    "static/js/2.e4c66ef3.chunk.js.map": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/2.e4c66ef3.chunk.js.map",
+    "static/js/2.cf2f6876.chunk.js": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/2.cf2f6876.chunk.js",
+    "static/js/2.cf2f6876.chunk.js.map": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/2.cf2f6876.chunk.js.map",
     "index.html": "https://pavlicholeg.github.io/dinabot_gscripts/build/index.html",
-    "precache-manifest.73db83a90e09f124278aacd02ea2e729.js": "https://pavlicholeg.github.io/dinabot_gscripts/build/precache-manifest.73db83a90e09f124278aacd02ea2e729.js",
+    "precache-manifest.c9bd4ac7e7badfa016c59956d377ebba.js": "https://pavlicholeg.github.io/dinabot_gscripts/build/precache-manifest.c9bd4ac7e7badfa016c59956d377ebba.js",
     "service-worker.js": "https://pavlicholeg.github.io/dinabot_gscripts/build/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.e4c66ef3.chunk.js.LICENSE.txt": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/2.e4c66ef3.chunk.js.LICENSE.txt",
+    "static/js/2.cf2f6876.chunk.js.LICENSE.txt": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/2.cf2f6876.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.032e35f2.js",
-    "static/js/2.e4c66ef3.chunk.js",
+    "static/js/2.cf2f6876.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.00139b63.chunk.js"
+    "static/js/main.f5e2a3f9.chunk.js"
   ]
 }
