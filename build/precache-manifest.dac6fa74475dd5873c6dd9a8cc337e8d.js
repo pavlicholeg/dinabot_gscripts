@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bbb7cb891e99bbac88411f522e471a81",
+    "revision": "63ff6e01d35ba32823c13cb4b8f0f081",
     "url": "https://pavlicholeg.github.io/dinabot_gscripts/build/index.html"
   },
   {
-    "revision": "fb80b676f93282453920",
+    "revision": "a42c3efe1df486af9400",
     "url": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "420793eb6ac3544fb169",
-    "url": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/2.1cebe816.chunk.js"
+    "revision": "efa789d1cf44aa52b5f8",
+    "url": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/2.85534c59.chunk.js"
   },
   {
     "revision": "89b0379e7bcda1a468d8b0343aeb4e53",
-    "url": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/2.1cebe816.chunk.js.LICENSE.txt"
+    "url": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/2.85534c59.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fb80b676f93282453920",
-    "url": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/main.34be572c.chunk.js"
+    "revision": "a42c3efe1df486af9400",
+    "url": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/main.53f157af.chunk.js"
   },
   {
     "revision": "5f1a6045866f37768755",
