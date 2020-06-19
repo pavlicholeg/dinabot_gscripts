@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "09024e8ce1c2a7ba739773e60ec38e21",
+    "revision": "3b5e0948102b529d5f246a6c04c30f3a",
     "url": "https://pavlicholeg.github.io/dinabot_gscripts/build/index.html"
   },
   {
-    "revision": "115e16233e13724de53d",
+    "revision": "4738d98f9ee22ff15378",
     "url": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/2.df15d80e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "115e16233e13724de53d",
-    "url": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/main.5620d918.chunk.js"
+    "revision": "4738d98f9ee22ff15378",
+    "url": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/main.c6c20981.chunk.js"
   },
   {
     "revision": "5f1a6045866f37768755",

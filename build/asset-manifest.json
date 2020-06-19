@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/css/main.5f361e03.chunk.css",
-    "main.js": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/main.5620d918.chunk.js",
-    "main.js.map": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/main.5620d918.chunk.js.map",
+    "main.js": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/main.c6c20981.chunk.js",
+    "main.js.map": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/main.c6c20981.chunk.js.map",
     "runtime-main.js": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/runtime-main.032e35f2.js",
     "runtime-main.js.map": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/runtime-main.032e35f2.js.map",
     "static/js/2.df15d80e.chunk.js": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/2.df15d80e.chunk.js",
     "static/js/2.df15d80e.chunk.js.map": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/2.df15d80e.chunk.js.map",
     "index.html": "https://pavlicholeg.github.io/dinabot_gscripts/build/index.html",
-    "precache-manifest.9346493d9bbc53cd4c0f15b72041de7b.js": "https://pavlicholeg.github.io/dinabot_gscripts/build/precache-manifest.9346493d9bbc53cd4c0f15b72041de7b.js",
+    "precache-manifest.7326a660bbcc83bc6d64817afaac64f0.js": "https://pavlicholeg.github.io/dinabot_gscripts/build/precache-manifest.7326a660bbcc83bc6d64817afaac64f0.js",
     "service-worker.js": "https://pavlicholeg.github.io/dinabot_gscripts/build/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.df15d80e.chunk.js.LICENSE.txt": "https://pavlicholeg.github.io/dinabot_gscripts/build/static/js/2.df15d80e.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.032e35f2.js",
     "static/js/2.df15d80e.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.5620d918.chunk.js"
+    "static/js/main.c6c20981.chunk.js"
   ]
 }
